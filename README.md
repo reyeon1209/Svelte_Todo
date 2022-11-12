@@ -5,3 +5,11 @@
 </p>
 
 <h3 align="center">Svelte Todo</h3>
+
+```zsh
+npm run-script dev
+```
+
+```zsh
+npm run-script build
+```
